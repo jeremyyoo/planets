@@ -1,1 +1,2 @@
 This file is named "mars.txt".
+I just added a new line.
